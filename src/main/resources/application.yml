@@ -1,0 +1,17 @@
+# 项目类路径下的配置文件
+# 默认配置
+server:
+  port: 8080
+
+person:
+  lastName: 张三
+  age: 18
+  boss: false
+  birth: 1990/12/12
+  maps: {k1: v1, k2: 12}
+  lists:
+    - lisi
+    - zhaoliu
+  dog:
+    name: 迪迪
+    age: 5
